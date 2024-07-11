@@ -1,0 +1,20 @@
+{
+    "userDetails":[
+        {"userId":1, "userName":"Ramu", "city":"Bangaluru", "state":"KA", "pinCode":"560029"},
+        {"userId":1, "userName":"Ramu", "city":"Bangaluru", "state":"KA", "pinCode":"560029"},
+        {"userId":1, "userName":"Ramu", "city":"Bangaluru", "state":"KA", "pinCode":"560029"},
+        {"userId":1, "userName":"Ramu", "city":"Bangaluru", "state":"KA", "pinCode":"560029"},
+        {"userId":1, "userName":"Ramu", "city":"Bangaluru", "state":"KA", "pinCode":"560029"},
+        {"userId":1, "userName":"Ramu", "city":"Bangaluru", "state":"KA", "pinCode":"560029"},
+        {"userId":1, "userName":"Ramu", "city":"Bangaluru", "state":"KA", "pinCode":"560029"}
+    ],
+    "posts": [
+        { "id": 1, "title": "Post 1", "author": "Author 1" },
+        { "id": 2, "title": "Post 2", "author": "Author 2" }
+      ],
+      "comments": [
+        { "id": 1, "body": "Comment 1", "postId": 1 },
+        { "id": 2, "body": "Comment 2", "postId": 2 }
+      ],
+      "profile": { "name": "User" }
+}
